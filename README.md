@@ -1,14 +1,11 @@
-Este projeto foi desenvolvido junto com este conteúdo maravilhoso do canal do Sujeito Programador.
 
+#Barber Dev Project
 
-https://www.youtube.com/watch?v=qeF7ZN5TegY
+::Este projeto foi desenvolvido junto com este conteúdo maravilhoso do canal no Youtube do Sujeito Programador.
+::Segue as URLs dos vídeos: 
 
-00:29:21 / 00:56:02
+vídeo 01: https://www.youtube.com/watch?v=Fzc_dnqD-V0
+vídeo 02: https://www.youtube.com/watch?v=qeF7ZN5TegY 
+página do Sujeito Programador: https://sujeitoprogramador.com/landing-page/
 
-https://www.youtube.com/watch?v=Fzc_dnqD-V0
-
-
-00:48:30
-00:43:37 / 01:03:29
-
-https://sujeitoprogramador.com/landing-page/
+É uma simples, mas sofisticada Landing Page de uma Barbearia desenvolvida com as principais tecnologias do momemnto no mercado de programação Front-End. O projeto usa HTML, CSS(com Sass) e Javascrit, com a bilbioteca para efeitos especiais na página como a AOS.js(https://michalsnik.github.io/aos/).
